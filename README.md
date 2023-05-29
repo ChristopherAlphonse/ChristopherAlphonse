@@ -1,5 +1,5 @@
 ### Hey there
-
+<br/>
 <a href="https://www.linkedin.com/in/christopheralphonse/">
   <img align="left" alt="linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
