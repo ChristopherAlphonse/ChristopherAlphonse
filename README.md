@@ -13,7 +13,7 @@ Hi, i'm [Christopher Alphonse](https://christopheralphonse.com), a passionate se
 
 **languages and tools:**
 
-[![My Skills](https://skillicons.dev/icons?i=java,ts,js,python,nodejs,mongodb,postgres,svelte,vue,vercel,firebase,prisma,redis,docker,react,next,vite,tailwind,bootstrap,django,figma,xd,ps,pr,linux,vscode,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,ts,js,python,nodejs,mongodb,postgres,svelte,vue,vercel,firebase,prisma,redis,docker,react,next,vite,tailwind,bootstrap,django,figma,xd,ps,pr,linux,vscode,&theme=dark,&size=10)](https://skillicons.dev)
 
 📊 **this week i spent my time on:**
 
