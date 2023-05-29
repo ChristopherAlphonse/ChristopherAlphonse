@@ -1,9 +1,9 @@
 ### Hey there
-<br/>
+
 <a href="https://www.linkedin.com/in/christopheralphonse/">
   <img align="left" alt="linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br/>
 <br />
 
 Hi, i'm [Christopher Alphonse](https://christopheralphonse.com), a passionate self-taught full stack web developer and a freelance software engineer from [Boston](https://www.google.com/maps/place/Boston,+MA/data=!4m2!3m1!1s0x89e3652d0d3d311b:0x787cbf240162e8a0?sa=X&ved=2ahUKEwjAsMvdnJn_AhVRGlkFHWO2CDAQ8gF6BAgNEAI). My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I'm currently focus on freelancing, learning JAVA, getting more in depth with design pattern, understanding more principle like SOLID,and of course more data structures and algorithms.
