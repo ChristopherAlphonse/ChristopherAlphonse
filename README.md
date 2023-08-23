@@ -1,8 +1,6 @@
 ### Hey there
 
-<a href="https://www.linkedin.com/in/christopheralphonse/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flmi3d.com%2Fwp-content%2Fuploads%2F2021%2F04%2FSocial_Media_Icons-LinkedIn.svg&tbnid=lPMrDpxQXhV8uM&vet=12ahUKEwjHxb645PKAAxVEVTUKHZFHCXsQMyheegUIARC3Ag..i&imgrefurl=https%3A%2F%2Flmi3d.com%2F&docid=WFrelvwqyYGyZM&w=800&h=800&q=linkedin%20svg&ved=2ahUKEwjHxb645PKAAxVEVTUKHZFHCXsQMyheegUIARC3Ag" />
-</a>
+
 <br/>
 <br />
 
