@@ -1,26 +1,23 @@
-<h1 align="center">  Welcome </h1>
+# Welcome
 
+Hi there! I'm [Christopher Alphonse](https://christopheralphonse.com), currently immersed in the world of Java and dedicated to honing my skills on LeetCode. I'm pursuing a B.S. in Software Engineering at [WGU](https://www.wgu.edu/online-it-degrees/software-engineering-bachelors-program.html#_).
 
-<br/>
-<br />
+Every day, I engage in technical mock interviews to sharpen my abilities, all while actively seeking summer internships. If you'd like to contribute to my journey, feel free to reach out. Additionally, I'm also reading [Eloquent JavaScript, 3rd Edition](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507) through I aspire to leverage my education to its fullest potential.
 
-Hi, I'm [Christopher Alphonse](https://christopheralphonse.com), a passionate self-taught full stack web developer and a freelance software engineer from [Boston](https://www.google.com/maps/place/Boston,+MA/data=!4m2!3m1!1s0x89e3652d0d3d311b:0x787cbf240162e8a0?sa=X&ved=2ahUKEwjAsMvdnJn_AhVRGlkFHWO2CDAQ8gF6BAgNEAI). My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I'm currently focusing on freelancing, learning JAVA, getting more in-depth with design pattern, understanding more principles like SOLID, and of course more data structures and algorithms.
+- 💼 Open to collaboration? Reach out via [email](mailto:chris.freelance.dev@gmail.com) :)
+- 💬 Have a question? Feel free to ask; I'm here to help.
 
-- 💼 any work? do reach, [email](mailto:chris.freelance.dev@gmail.com) :)
-- 💬 ask me about anything, I am happy to help;
-
-**Languages and tools:**
+**Languages and Tools:**
 
 [![My Skills](https://skillicons.dev/icons?i=java,ts,js,python,nodejs,mongodb,postgres,svelte,vue,vercel,firebase,prisma,redis,docker,react,next,vite,tailwind,bootstrap,django,figma,xd,ps,pr,linux,vscode,&theme=dark)](https://skillicons.dev)
 
-📊 **This week i spent my time on:**
+📊 **This Week's Focus:**
 
-<!--START_SECTION-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherAlphonse&hide=css,scss,html&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherAlphonse&hide=css,scss,html&theme=radical)
 
-<!--END_SECTION-->
 
-📈 my Github stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=christopheralphonse&show_icons=true&theme=radical)
+📈 **GitHub Stats:**
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=christopheralphonse&show_icons=true&theme=radical)
