@@ -5,7 +5,7 @@ Hi there! I'm [Christopher Alphonse](https://christopheralphonse.com), currently
 Every day, I engage in technical mock interviews to sharpen my abilities, all while actively seeking summer internships. If you'd like to contribute to my journey, feel free to reach out. Additionally, I'm also reading [Eloquent JavaScript, 3rd Edition](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507) through I aspire to leverage my education to its fullest potential.
 <br/>
 
-- My [resume]{./Chistopher_Alphonse_Resume.pdf}
+- My [resume](./Chistopher_Alphonse_Resume.pdf)
 - 💼 Open to collaboration? Reach out via [email](mailto:chris.freelance.dev@gmail.com) :)
 - 💬 Have a question? Feel free to ask; I'm here to help.
 
