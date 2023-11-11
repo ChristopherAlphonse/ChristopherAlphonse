@@ -9,14 +9,9 @@ Every day, I engage in technical mock interviews to sharpen my abilities, all wh
 - 💼 Open to collaboration? Reach out via [email](mailto:chris.freelance.dev@gmail.com) :)
 - 💬 Have a question? Feel free to ask; I'm here to help.
 
-**Languages and Tools:**
+**HERE IS MY JOURNEY:**
 
-
-# SUMMARY
-
-Dedicated professional with a decade of expertise in the healthcare industry and a passion for computer performance. Seeking to use my extensive job experience, analytical thinking, and creative problem-solving abilities to develop software. I have a proven track record of consistently delivering projects on time and proactively conducting independent research to tackle complex problems.
-
-# WORK EXPERIENCE
+# EXPERIENCE
 
 ## Freelancer/Consultant
 *Remote, Upwork*  
@@ -42,20 +37,6 @@ Dedicated professional with a decade of expertise in the healthcare industry and
 - Generated insightful website analytical data using Shopify’s API, providing valuable information to enhance user experiences.
 - Implemented strategic optimizations, contributing significantly to the online store's performance and overall customer journey.
 
-## PATIENT OUTREACH COORDINATOR (*Remote*)
-**Shields Health Solution**  
-*2021 – 2023*
-
-- Specialized in Medicaid and Medicare, demonstrating exceptional proficiency in composing persuasive letters of necessity, resulting in streamlined processes and increased approvals.
-- Utilized advanced skills in Epic Care and Willow Ambulatory to facilitate efficient pharmacy billing and meticulous management of medical records.
-- Devised and executed strategic plans to provide additional support for patients, including initiatives for managing 340B programs, navigating copay issues, leveraging prescription coupons, and facilitating financial relief solutions.
-
-## LEAD PHARMACY TECHNICIAN (*Stoughton, MA*)
-**CVS Health Corp.**  
-*2018 – 2021*
-
-- Fostered collaboration with pharmacists and staff to conceptualize and execute a comprehensive team training plan.
-- Orchestrated the development and implementation of the training plan, yielding remarkable outcomes: a 40% surge in technician productivity, a notable 65% reduction in customer complaints, and a commendable 15% enhancement in overall customer satisfaction.
 
 # EDUCATION & CERTIFICATION
 
@@ -82,9 +63,6 @@ Relevant Coursework: JavaScript, React.js, NoQSL, Node.js, Wireframing, Web deve
 - **Others:** Docker, Kubernetes. NGINX, containers, Git, Github, technical support, computer hardware
 - **Soft Skills:** Customer service, written communication, project management, collaboration, problem-solving, adaptability, time management, leadership, critical thinking.
 
-
-
-[![My Skills](https://skillicons.dev/icons?i=java,ts,js,python,nodejs,mongodb,postgres,svelte,vue,vercel,firebase,prisma,redis,docker,react,next,vite,tailwind,bootstrap,django,figma,xd,ps,pr,linux,vscode,&theme=dark)](https://skillicons.dev)
 
 📊 **This Week's Focus:**
 
