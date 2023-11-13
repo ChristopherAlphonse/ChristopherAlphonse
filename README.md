@@ -61,7 +61,7 @@ Relevant Coursework: JavaScript, React.js, NoQSL, Node.js, Wireframing, Web deve
 - **OS:** Linux/Unix, Windows, Mac OS, Android.
 - **Database Management:** PostgreSQL, MySQL, MongoDB, NOSQL.
 - **Others:** Docker, Kubernetes. NGINX, containers, Git, Github, technical support, computer hardware
-- **Soft Skills:** Customer service, written communication, project management, collaboration, problem-solving, adaptability, time management, leadership, critical thinking.
+- **Soft Skills:** project management, collaboration, problem-solving, adaptability, time management, leadership, critical thinking.
 
 
 📊 **This Week's Focus:**
