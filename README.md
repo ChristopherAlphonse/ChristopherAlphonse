@@ -2,7 +2,7 @@
 
 Hi there! I'm [Christopher Alphonse](https://christopheralphonse.com), currently immersed in the world of Java and dedicated to honing my skills on LeetCode. I'm pursuing a B.S. in Software Engineering at [WGU](https://www.wgu.edu/online-it-degrees/software-engineering-bachelors-program.html#_).
 
-Every day, I engage in technical mock interviews to sharpen my abilities, all while actively seeking summer internships. If you'd like to contribute to my journey, feel free to reach out. Additionally, I'm also reading [Eloquent JavaScript, 3rd Edition](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507) through I aspire to leverage my education to its fullest potential.
+Every day, I engage in technical mock interviews to sharpen my abilities, all while actively seeking summer internships or opportunities. If you'd like to contribute to my journey, feel free to reach out. Additionally, I'm also reading [Eloquent JavaScript, 3rd Edition](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507) through I aspire to leverage my education to its fullest potential.
 <br/>
 
 - My [resume](./Chistopher_Alphonse_Resume.pdf)
