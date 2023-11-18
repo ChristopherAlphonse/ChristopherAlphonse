@@ -15,7 +15,7 @@ Every day, I engage in technical mock interviews to sharpen my abilities, all wh
 
 # EDUCATION & CERTIFICATION
 
-**WESTERN GOVERNORS UNIVERSITY** (*Millcreek, UT*)  
+**WESTERN GOVERNORS UNIVERSITY** (*Resmote*)  
 *Bachelor of Science, Software Engineering*  
 *Expected 2027*  
 Relevant Coursework: Software Engineering; Network and Security; Algorithms; Data Management; System Design
