@@ -11,31 +11,6 @@ Every day, I engage in technical mock interviews to sharpen my abilities, all wh
 
 **HERE IS MY JOURNEY:**
 
-# EXPERIENCE
-
-## Freelancer/Consultant
-*Remote, Upwork*  
-*2018 - Present*
-
-### Front-End Developer
-**Spawner, AI Mission Driving SAAS Landing Page**
-- Collaborated closely with the CTO and designer to refine the design in Next.js, demonstrating a commitment to excellence.
-- Exhibited exemplary teamwork by seamlessly implementing new UI/UX designs, contributing to the success of an AI-driven SAAS landing page mission.
-
-### Software Developer
-**Demi Woods LLC, Accounting Service Provider**
-- Led the development of a company landing page, strategically designing each section to enhance user engagement.
-- Skillfully integrated optimized keywords and meta tags, resulting in a notable improvement in SEO performance.
-
-### Front-End Developer
-**Brinks, Financial Banking and Security Company**
-- Spearheaded the development of a desktop application using Electron.js and Node.js, showcasing technical leadership.
-- Engineered a robust backend with SQLite3, efficiently managing data storage and retrieval for enhanced system performance.
-
-### Web Developer/Consultant
-**FunkyJunkieCo, E-commerce Urban Online Shopify Store**
-- Generated insightful website analytical data using Shopify’s API, providing valuable information to enhance user experiences.
-- Implemented strategic optimizations, contributing significantly to the online store's performance and overall customer journey.
 
 
 # EDUCATION & CERTIFICATION
