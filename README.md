@@ -38,14 +38,3 @@ Relevant Coursework: JavaScript, React.js, NoQSL, Node.js, Wireframing, Web deve
 - **Others:** Docker, Kubernetes. NGINX, containers, Git, Github, technical support, computer hardware
 - **Soft Skills:** project management, collaboration, problem-solving, adaptability, time management, leadership, critical thinking.
 
-
-📊 **This Week's Focus:**
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherAlphonse&hide=css,scss,html&theme=radical)
-
-
-
-📈 **GitHub Stats:**
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=christopheralphonse&show_icons=true&theme=radical)
