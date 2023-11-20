@@ -30,11 +30,10 @@ Relevant Coursework: JavaScript, React.js, NoQSL, Node.js, Wireframing, Web deve
 
 # SKILLS
 
-- **Networking:** Active Directory, PowerShell, TCP/IP, Subnetting, IP, DNS, DHCP.
-- **Languages:** Java, JavaScript/TypeScript, Python, HTML/CSS.
-- **Frameworks:** React.js, React Native, Express.js
-- **OS:** Linux/Unix, Windows, Mac OS, Android.
+- **Languages:** Java, JavaScript, TypeScript, Python
+- **Frameworks:** React.js, Nodejs
+- **OS:** Linux/Unix, Windows, Android.
 - **Database Management:** PostgreSQL, MySQL, MongoDB, NOSQL.
-- **Others:** Docker, Kubernetes. NGINX, containers, Git, Github, technical support, computer hardware
-- **Soft Skills:** project management, collaboration, problem-solving, adaptability, time management, leadership, critical thinking.
+- **Others:** Docker, Kubernetes. NGINX
+
 
