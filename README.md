@@ -30,11 +30,11 @@ Relevant Coursework: JavaScript, React.js, NoQSL, Node.js, Wireframing, Web deve
 
 # SKILLS
 
-•	Platforms: Ubuntu, Debian Linux, Windows 10 & 11
-•	Languages:  Python, Java, JavaScript, HTML5, CSS3
-•	Skills: Object-Oriented Programming, Web Applications, Scripting/Automation
-•	Web Technologies: React.js, Redux, P5.js, Android SDK, Selenium, Jest (Unit Testing), 
-•	Development Tools: Visual Studio, PowerShell, Bash, Git, DataGrip, Postman		 
+-   latforms: Ubuntu, Debian Linux, Windows 10 & 11
+- 	Languages:  Python, Java, JavaScript, HTML5, CSS3
+- 	Skills: Object-Oriented Programming, Web Applications, Scripting/Automation
+- 	Web Technologies: React.js, Redux, P5.js, Android SDK, Selenium, Jest (Unit Testing), 
+- 	Development Tools: Visual Studio, PowerShell, Bash, Git, DataGrip, Postman		 
 
 
 
