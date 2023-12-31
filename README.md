@@ -1,8 +1,10 @@
 # Welcome
 
-Hi there! I'm [Christopher Alphonse](https://christopheralphonse.com), currently immersed in the world of Java and dedicated to honing my skills on LeetCode. I'm pursuing a B.S. in Software Engineering at [WGU](https://www.wgu.edu/online-it-degrees/software-engineering-bachelors-program.html#_).
+Hi there! I'm [Christopher Alphonse](https://christopheralphonse.com), currently immersed in the world of Java and dedicated to honing my skills on LeetCode and Hackerank. 
 
-Every day, I engage in technical mock interviews to sharpen my abilities, all while actively seeking summer internships or opportunities. If you'd like to contribute to my journey, feel free to reach out. Additionally, I'm also reading [Eloquent JavaScript, 3rd Edition](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507) through I aspire to leverage my education to its fullest potential.
+Member of: Granite State Code Camp, Major League Hacking, [Color Stack](https://www.colorstack.org/), and [Hack.Diversity](https://www.hackdiversity.com/).
+
+Goals: To make a difference and introduce new thinking and solutions to everyday issues. I pledge to make a difference in my community and humanity, one solution at a time.
 <br/>
 
 - My [resume](./Christopher_Alphonse_Resume_2024.pdf)
