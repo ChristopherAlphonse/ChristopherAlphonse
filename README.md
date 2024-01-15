@@ -1,6 +1,6 @@
 # Welcome
 
-Hi there! I'm [Christopher Alphonse](https://christopheralphonse.com), currently immersed in the world of Java and dedicated to honing my skills on LeetCode, Hackerank, and building application to reenforce my learning . 
+Hi there! I'm [Christopher Alphonse](https://christopheralphonse.com), currently immersed in the world of Java and dedicated to honing my skills on LeetCode, Hackerank, and building application to re-enforce my learning . 
 
 Member of: [Granite State Code Camp](https://www.granitestatecodecamp.org/), [Major League Hacking](https://mlh.io/), [Color Stack](https://www.colorstack.org/), and [Hack.Diversity](https://www.hackdiversity.com/).
 
