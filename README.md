@@ -2,7 +2,7 @@
 
 # Welcome
 
-Hi there! I'm [Christopher Alphonse](https://christopheralphonse.com), currently immersed in the world of Java, dedicated to honing my skills on LeetCode, HackerRank, and building applications to reinforce my learning.
+Hi there! I'm [Christopher Alphonse](https://christopheralphonse.com), currently enroll in Western Governors University obtaining my B.S in Software Enginnering (ABET). 
 
 ![Chris views](https://komarev.com/ghpvc/?username=ChristopherAlphonsee&style=for-the-badge)
 
