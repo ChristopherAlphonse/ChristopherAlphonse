@@ -12,7 +12,7 @@ Member of: [Granite State Code Camp](https://www.granitestatecodecamp.org/), [Ma
 
 Goals: " To make a difference and introduce new thinking and solutions to everyday issues. "
 
-My [resume](./Christopher_Alphonse_Resume.pdf)
+My [resume](https://christopheralphonse.com/Christopher_Alphonse_Resume.pdf)
 
 -   💼 Open to collaboration? Reach out via [email](mailto:chris.freelance.dev@gmail.com) :)
 -   💬 Have a question? Feel free to ask; I'm here to help.
