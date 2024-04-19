@@ -1,8 +1,8 @@
-<center>
+<div style="text-align: center;">
 
 # Welcome
 
-Hi there! I'm [Christopher Alphonse](https://christopheralphonse.com), currently enroll in Western Governors University obtaining my B.S in Software Enginnering (ABET). 
+Hi there! I'm [Christopher Alphonse](https://christopheralphonse.com), currently enrolled in Western Governors University obtaining my B.S in Software Engineering (ABET). 
 
 ![Chris views](https://komarev.com/ghpvc/?username=ChristopherAlphonsee&style=for-the-badge)
 
@@ -14,9 +14,9 @@ Goals: " To make a difference and introduce new thinking and solutions to everyd
 
 My [resume](https://christopheralphonse.com/Christopher_Alphonse_Resume.pdf)
 
--   💼 Open to collaboration? Reach out via [email](mailto:chris.freelance.dev@gmail.com) :)
--   💬 Have a question? Feel free to ask; I'm here to help.
+- 💼 Open to collaboration? Reach out via [email](mailto:chris.freelance.dev@gmail.com) :)
+- 💬 Have a question? Feel free to ask; I'm here to help.
 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=christopheralphonse&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false&hide=issues&count_private=true)
 
-</center>
+</div>
