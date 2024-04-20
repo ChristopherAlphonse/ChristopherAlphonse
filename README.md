@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hi there! I'm [Christopher Alphonse](https://christopheralphonse.com), currently enrolled in Western Governors University obtaining my B.S in Software Engineering (ABET). 
+Hi there! I'm currently enrolled in Western Governors University obtaining my B.S in Software Engineering (ABET). 
 
 ![Chris views](https://komarev.com/ghpvc/?username=ChristopherAlphonsee&style=for-the-badge)
 
