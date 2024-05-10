@@ -14,10 +14,9 @@ Hi there! I'm currently preping for my Internship at [ezCater](https://www.ezcat
 ## Memberships
 
 - Member of:
-  - [Granite State Code Camp](https://www.granitestatecodecamp.org/)
+  - [Hack.Diversity](https://www.hackdiversity.com/)
   - [Major League Hacking](https://mlh.io/)
   - [Color Stack](https://www.colorstack.org/)
-  - [Hack.Diversity](https://www.hackdiversity.com/)
   - [CodePath.org](https://www.codepath.org/)
 
 
