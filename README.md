@@ -16,14 +16,11 @@ Hi there! I'm currently preping for my Internship at [ezCater](https://www.ezcat
     -   [Color Stack](https://www.colorstack.org/)
     -   [CodePath.org](https://www.codepath.org/)
 
-## Goals
+## 💼 Goals
 
 "To make a difference and introduce new thinking and solutions to everyday issues."
 
 [View My Resume](https://christopheralphonse.com/Christopher_Alphonse_Resume.pdf)
-
--   💼 Open to collaboration? Reach out via [email](mailto:chris.freelance.dev@gmail.com) :)
--   💬 Have a question? Feel free to ask; I'm here to help.
 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=christopheralphonse&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false&hide=issues&count_private=true)
 
