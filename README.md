@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hi there! I'm currently enrolled in Western Governors University obtaining my B.S in Software Engineering (ABET). 
+Hi there! I'm currently preping for my Internship at [ezCater](https://www.ezcater.com/), please connect on linkedin to chat. 
 
 ![Chris views](https://komarev.com/ghpvc/?username=ChristopherAlphonsee&style=for-the-badge)
 
@@ -18,6 +18,7 @@ Hi there! I'm currently enrolled in Western Governors University obtaining my B.
   - [Major League Hacking](https://mlh.io/)
   - [Color Stack](https://www.colorstack.org/)
   - [Hack.Diversity](https://www.hackdiversity.com/)
+  - [CodePath.org](https://www.codepath.org/)
 
 
 
