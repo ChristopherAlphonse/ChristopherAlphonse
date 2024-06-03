@@ -2,10 +2,6 @@
 
 # Welcome
 
-# :postbox: About Me
-
-Hi there! I'm currently preping for my Internship at [ezCater](https://www.ezcater.com/), please connect on linkedin to chat.
-
 ![Chris views](https://komarev.com/ghpvc/?username=ChristopherAlphonsee&style=for-the-badge)
 
 ## Memberships
