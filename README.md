@@ -12,7 +12,7 @@
     -   [Color Stack](https://www.colorstack.org/)
     -   [CodePath.org](https://www.codepath.org/)
 
-## 💼 Goals
+## 💼 Goal
 
 "To make a difference and introduce new thinking and solutions to everyday issues."
 
