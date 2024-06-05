@@ -2,7 +2,7 @@
 
 # Welcome
 
-![Chris views](https://komarev.com/ghpvc/?username=ChristopherAlphonsee&style=for-the-badge)
+![Chris view](https://komarev.com/ghpvc/?username=ChristopherAlphonsee&style=for-the-badge)
 
 ## Memberships
 
