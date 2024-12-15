@@ -8,7 +8,7 @@
 
 I love to garden, deep research on random things I fixate on, Skiing, and going for walks.
 
-- [My lastedt Blog](https://christopheralphonse.com/blog/how-i-am-using-ai-to-automate-scrapping)
+- [My lastedt Blog](https://christopheralphonse.com/blog/how-i-am-using-ai-to-automate-scrapping) - How I Am Using AI to Automate Web Scraping
 - [Linkedin](https://www.linkedin.com/in/christopheralphonse/)
 
 _What I can't live without:_
