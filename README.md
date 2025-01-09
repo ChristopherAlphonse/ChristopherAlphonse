@@ -36,4 +36,4 @@ _Books own my desk_:
 - [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850?crid=53L0OCN2MOS3&dib=eyJ2IjoiMSJ9.nj6XTCgbP7Ay4ig5zGU-o8s4S8xUCinbbuvNUlcvZoLQekD_k_aVb8m82DeNy6mCxMBBmffiGKOu7ESixuRTQnZHsnt9EF1X8vRnVmRbV-QoO0Zcd_2fCjhgXeA942g1V39VWFbud8d_Vs6i8SKDS0ZllctISFL9IjQ8LYWxu8zaKn2kyZ19B24dzvGLvRuYR-4qhsoEGFPV-4QR_D-Zr3Gvfen3qkSDPrKve0Vju2E.Nej_TpWdnTkOU5m59t7gUKaKSaXanCsiTkxWZGX0Qxc&dib_tag=se&keywords=cracking+the+coding+interview&qid=1734236077&s=books&sprefix=cracking%2Cstripbooks%2C71&sr=1-1)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherAlphonse&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherAlphonse&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
