@@ -1,16 +1,5 @@
 
 <p align="center">  
-"To make a difference and introduce new thinking and solutions to everyday issues."  
-</p>  
-
-
-
-### **About Me**  
-
-I’m actively seeking an internship or entry-level role as a front-end developer or software engineer.  
-
-My journey into tech began with self-directed learning and completing a bootcamp, which gave me hands-on experience as a contractor.  
-Now, I’m taking my education to the next level by pursuing a **Bachelor’s degree in Software Engineering**, deepening my technical expertise and addressing areas for growth.  
 
 I believe in staying curious and committed to continuous improvement, always striving to push technology forward.  
 
