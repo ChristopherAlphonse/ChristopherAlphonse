@@ -13,7 +13,7 @@ I believe in staying curious and committed to continuous improvement, always str
 ### **A Little About Me**  
 
 - 🌱 **Hobbies**: Gardening, deep-diving into random research topics, skiing, and going for long walks.  
-- ✍️ **My Latest Blog**: [How I Am Using AI to Automate Web Scraping](https://christopheralphonse.com/blog/how-i-am-using-ai-to-automate-scrapping)  
+- ✍️ **My Latest Blog**: [[How I Am Using AI to Automate Web Scraping](https://christopheralphonse.com/blog/how-i-am-using-ai-to-automate-scrapping](https://christopheralphonse.com/blog/navigating-your-first-internship))  
 - 💼 **LinkedIn**: [linkedin.com/in/christopheralphonse](https://www.linkedin.com/in/christopheralphonse/)  
 
 
