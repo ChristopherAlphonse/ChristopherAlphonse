@@ -6,7 +6,7 @@ I believe in staying curious and committed to continuous improvement, always str
 
 
 ### **Career Goal**  
-** Staff Engineer → Principal Engineer**  
+**Staff Engineer → Principal Engineer**  
 
 
 
