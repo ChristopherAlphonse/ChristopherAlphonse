@@ -6,7 +6,7 @@ I believe in staying curious and committed to continuous improvement, always str
 
 
 ### **Career Goal**  
-**Software Engineer → Senior Engineer → Staff Engineer → Principal Engineer**  
+** Staff Engineer → Principal Engineer**  
 
 
 
@@ -22,14 +22,15 @@ I believe in staying curious and committed to continuous improvement, always str
 - 🖱️ **Mouse**: [Logitech G305 Lightspeed Wireless](https://www.logitechg.com/en-us/products/gaming-mice/g305-lightspeed-wireless-gaming-mouse.html)  
 - ⌨️ **Keyboard**: [Keychron K2](https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard)  
 - 🕶️ **Computer Glasses**: [Gunnar TORPEDO-X RAZER Edition](https://www.smartbuyglasses.com/designer-eyeglasses/Gunnar/Gunnar-TORPEDO-X-RAZER-EDITION-Blue-Light-Block-RZR-30008-579076.html?feed=us)  
-- 🔧 **Keybinds**: [My Custom VS Code Shortcuts](./vscode/keybinds.md)  
+- 🔧 **Keybinds**: [My Custom VS Code Shortcuts](https://github.com/ChristopherAlphonse/dotfiles/blob/master/vscode/keybinds.md)  
 
 
 
 ### **Books on My Desk**  
 - 📖 [Eloquent JavaScript - Second Edition](https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction/dp/1593275846)  
 - 📖 [JavaScript and jQuery: Interactive Front-End Web Development](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)  
-- 📖 [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)  
+- 📖 [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+- 📖 [The Mom Test](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742)
 
 
 ### **Tech Snapshot**  
