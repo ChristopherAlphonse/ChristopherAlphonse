@@ -17,7 +17,10 @@ I believe in staying curious and committed to continuous improvement, always str
 - 💼 **LinkedIn**: [linkedin.com/in/christopheralphonse](https://www.linkedin.com/in/christopheralphonse/)  
 
 
-
+<p align="center">
+  <a href="mailto:christopheralphonse96@gmail.com">Email</a> • 
+  <a href="https://christopheralphonse.com/blog">Blog</a>
+</p>
 
 <a href="https://github.com/ChristopherAlphonse">
   <img align="center" width="49%" src="./metrics-main.svg" />
