@@ -19,7 +19,7 @@ I believe in staying curious and committed to continuous improvement, always str
 
 
 ### **Tech Snapshot**  
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherAlphonse&layout=pie)](https://github.com/anuraghazra/github-readme-stats)  
+ #[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherAlphonse&layout=pie)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 <a href="https://github.com/ChristopherAlphonse">
