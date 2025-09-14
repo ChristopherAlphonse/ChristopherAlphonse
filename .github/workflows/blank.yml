@@ -62,4 +62,5 @@ jobs:
 permissions:
   contents: read
   packages: read
-
+  # Add more as needed, e.g.:
+  # issues: read
