@@ -17,7 +17,7 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          github_token: ${{ secrets.METRICS_TOKEN }}
           user: ChristopherAlphonse
           base: header, activity, community, repositories, metadata
           filename: metrics-main.svg
@@ -37,7 +37,7 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          github_token: ${{ secrets.METRICS_TOKEN }}
           
           plugin_languages: yes
           plugin_languages_ignored: CMake, HTML, CSS, Makefile, Jupyter Notebook
@@ -62,5 +62,3 @@ jobs:
 permissions:
   contents: write
   packages: read
-  # Add more as needed, e.g.:
-  # issues: read
