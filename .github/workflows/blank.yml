@@ -4,9 +4,7 @@ on:
   push:
     branches: ["main"]
 
-permissions:
-  contents: write
-  packages: read
+
 
 
 jobs:
@@ -63,4 +61,6 @@ jobs:
           template: classic
           repositories: 240
           repositories_batch: 40
-
+permissions:
+  contents: write
+  packages: read
