@@ -1,20 +1,21 @@
 name: Metrics
 on:
- # every 6am
-  # schedule: [{cron: "0 6 * * *"}]
-  # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
-  push: {branches: ["main"]}
+  push:
+    branches: ["main"]
+
 jobs:
   metrics-main:
     runs-on: ubuntu-latest
     steps:
-      # See action.yml for all options
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y docker.io jq
+
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          
           user: ChristopherAlphonse
           base: header, activity, community, repositories, metadata
           filename: metrics-main.svg
@@ -25,10 +26,13 @@ jobs:
   metrics-lang-wakatime:
     runs-on: ubuntu-latest
     steps:
-      # See action.yml for all options
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y docker.io jq
+
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           
           plugin_languages: yes
@@ -50,3 +54,7 @@ jobs:
           template: classic
           repositories: 240
           repositories_batch: 40
+
+permissions:
+  contents: read
+  packages: read
