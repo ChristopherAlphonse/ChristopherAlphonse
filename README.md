@@ -13,7 +13,7 @@ I believe in staying curious and committed to continuous improvement, always str
 ### **A Little About Me**  
 
 - 🌱 **Hobbies**: Gardening, deep-diving into random research topics, skiing, and going for long walks.  
-- ✍️ **My Latest Blog**: [Navigating Your First Internship](https://christopheralphonse.com/blog/how-i-am-using-ai-to-automate-scrapping](https://christopheralphonse.com/blog/navigating-your-first-internship))  
+- ✍️ **My Latest Blog**: [Preventing Claude 4 Sonnet Hallucination in Cursor](https://christopheralphonse.com/blog/preventing-claude-4-sonnet-hallucination-in-cursor))  
 - 💼 **LinkedIn**: [linkedin.com/in/christopheralphonse](https://www.linkedin.com/in/christopheralphonse/)  
 
 
