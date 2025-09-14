@@ -8,10 +8,12 @@ jobs:
   metrics-main:
     runs-on: ubuntu-latest
     steps:
-      - name: Install dependencies
+      - name: Ensure jq is installed
         run: |
-          sudo apt-get update
-          sudo apt-get install -y docker.io jq
+          if ! command -v jq &> /dev/null; then
+            sudo apt-get update
+            sudo apt-get install -y jq
+          fi
 
       - uses: lowlighter/metrics@latest
         with:
@@ -26,10 +28,12 @@ jobs:
   metrics-lang-wakatime:
     runs-on: ubuntu-latest
     steps:
-      - name: Install dependencies
+      - name: Ensure jq is installed
         run: |
-          sudo apt-get update
-          sudo apt-get install -y docker.io jq
+          if ! command -v jq &> /dev/null; then
+            sudo apt-get update
+            sudo apt-get install -y jq
+          fi
 
       - uses: lowlighter/metrics@latest
         with:
@@ -58,3 +62,4 @@ jobs:
 permissions:
   contents: read
   packages: read
+
