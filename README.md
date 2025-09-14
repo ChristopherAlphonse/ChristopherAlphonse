@@ -1,12 +1,9 @@
 
 <p align="center">  
 
-I believe in staying curious and committed to continuous improvement, always striving to push technology forward.  
+Result-Oriented Software Engineer with over a year of full time experience and more as an intern working on a diverse set of projects. Skilled in various programming languages while handling systems that scale to millions of users. Committed to a culture of collaboration and excellence, with a dedication to staying up-to-date on the latest development standards and best practices. Aiming to contribute specialized software engineering expertise to a dynamic organization to enable high levels of productivity and customer satisfaction.
 
 
-
-### **Career Goal**  
-**Staff Engineer → Principal Engineer**  
 
 
 
@@ -20,6 +17,7 @@ I believe in staying curious and committed to continuous improvement, always str
 <p align="center">
   <a href="mailto:christopheralphonse96@gmail.com">Email</a> • 
   <a href="https://christopheralphonse.com/blog">Blog</a>
+    <a href="https://christopheralphonse.com/resume">Resume</a>
 </p>
 
 <a href="https://github.com/ChristopherAlphonse">
