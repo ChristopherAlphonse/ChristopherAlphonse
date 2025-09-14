@@ -16,7 +16,7 @@ Result-Oriented Software Engineer with over a year of full time experience and m
 
 <p align="center">
   <a href="mailto:christopheralphonse96@gmail.com">Email</a> • 
-  <a href="https://christopheralphonse.com/blog">Blog</a>
+  <a href="https://christopheralphonse.com/blog">Blog</a> • 
     <a href="https://christopheralphonse.com/resume">Resume</a>
 </p>
 
