@@ -4,7 +4,12 @@ name: Setup Common
 
 on:
   workflow_call:
-
+    secrets:
+      METRICS_TOKEN:
+        required: true
+      WAKATIME_TOKEN:
+        required: false
+        
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
