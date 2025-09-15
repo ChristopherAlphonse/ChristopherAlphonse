@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 1Checkout repository
+      # Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
