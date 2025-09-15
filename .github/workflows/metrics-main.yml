@@ -9,20 +9,12 @@ on:
 jobs:
   generate-main-metrics:
     runs-on: ubuntu-latest
-    environment: 
-      name: production
+    environment: production
     permissions:
       contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Ensure jq is installed
-        run: |
-          if ! command -v jq &> /dev/null; then
-            sudo apt-get update
-            sudo apt-get install -y jq
-          fi
+      - name: Call shared setup
+        uses: ./.github/workflows/setup-common.yml
 
       - name: Generate main metrics
         uses: lowlighter/metrics@latest
@@ -37,8 +29,6 @@ jobs:
 
       - name: Commit metrics
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add metrics-main.svg
           git commit -m "Update main metrics image" || echo "No changes to commit"
           git push
