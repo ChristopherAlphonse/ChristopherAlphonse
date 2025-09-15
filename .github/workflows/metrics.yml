@@ -35,7 +35,7 @@ jobs:
       - name: Generate main metrics
         uses: lowlighter/metrics@latest
         with:
-          github_token: ${{ github.token }}
+          github_token: ${{secrets.TOKEN }}
           user: ChristopherAlphonse
           base: header, activity, community, repositories, metadata
           filename: metrics-main.svg
@@ -47,7 +47,7 @@ jobs:
       - name: Generate language & WakaTime metrics
         uses: lowlighter/metrics@latest
         with:
-          github_token: ${{ github.token }}
+          github_token: ${{secrets.TOKEN }}
           plugin_languages: yes
           plugin_languages_ignored: CMake, HTML, CSS, Makefile, Jupyter Notebook
           plugin_languages_sections: most-used
