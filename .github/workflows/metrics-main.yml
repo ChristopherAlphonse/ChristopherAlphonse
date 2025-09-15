@@ -7,15 +7,17 @@ on:
     branches: ["main"]
 
 jobs:
-  generate-main-metrics:
-    runs-on: ubuntu-latest
-    environment: production
-    permissions:
-      contents: write
-    steps:
-      - name: Call shared setup
-        uses: ./.github/workflows/setup-common.yml
+  call-setup:
+    uses: ./.github/workflows/setup-common.yml
+    with:
+      # pass any inputs if needed
+    secrets:
+      METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
 
+  generate-main-metrics:
+    needs: call-setup
+    runs-on: ubuntu-latest
+    steps:
       - name: Generate main metrics
         uses: lowlighter/metrics@latest
         with:
