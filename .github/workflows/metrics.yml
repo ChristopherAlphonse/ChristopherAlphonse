@@ -64,10 +64,3 @@ jobs:
           template: classic
           repositories: 240
           repositories_batch: 40
-
-      # Commit all generated SVGs
-      - name: Commit metrics
-        run: |
-          git add metrics-main.svg metrics-lang-wakatime.svg
-          git commit -m "Update metrics images" || echo "No changes to commit"
-          git push
