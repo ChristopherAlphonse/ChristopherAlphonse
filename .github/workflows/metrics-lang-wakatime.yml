@@ -1,0 +1,54 @@
+name: Metrics - Language & WakaTime
+
+on:
+  schedule: [{cron: "0 1 * * *"}] # daily at 1 AM (offset from main metrics)
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+
+jobs:
+  generate-lang-wakatime-metrics:
+    runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Ensure jq is installed
+        run: |
+          if ! command -v jq &> /dev/null; then
+            sudo apt-get update
+            sudo apt-get install -y jq
+          fi
+
+      - name: Generate language & WakaTime metrics
+        uses: lowlighter/metrics@latest
+        with:
+          github_token: ${{ secrets.METRICS_TOKEN }}
+          plugin_languages: yes
+          plugin_languages_ignored: CMake, HTML, CSS, Makefile, Jupyter Notebook
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          plugin_languages_indepth: no
+          plugin_languages_categories: programming
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          user: ChristopherAlphonse
+          base: ''
+          filename: metrics-lang-wakatime.svg
+          template: classic
+          repositories: 240
+          repositories_batch: 40
+
+      - name: Commit metrics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add metrics-lang-wakatime.svg
+          git commit -m "Update language & WakaTime metrics image" || echo "No changes to commit"
+          git push
