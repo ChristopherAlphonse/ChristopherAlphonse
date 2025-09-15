@@ -14,7 +14,7 @@ jobs:
       contents: write
     steps:
       - name: Call shared setup
-        uses: ./.github/workflows/setup-common.yml
+        uses: ./common.yml
 
       - name: Generate language & WakaTime metrics
         uses: lowlighter/metrics@latest
