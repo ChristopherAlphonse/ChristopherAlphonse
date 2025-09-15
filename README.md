@@ -1,28 +1,32 @@
-
 <p align="center">  
+  <b>Result-Oriented Software Engineer</b> with over a year of full-time experience (plus prior internships) working across diverse projects.  
+  Skilled in multiple programming languages and experienced in building systems that scale to millions of users.  
+  Dedicated to collaboration, excellence, and continuous learning while staying up-to-date with modern development standards and best practices.  
+  <br><br>
+  <i>Aiming to bring specialized software engineering expertise to a dynamic organization to drive productivity and customer satisfaction.</i>  
+</p>  
 
-Result-Oriented Software Engineer with over a year of full time experience and more as an intern working on a diverse set of projects. Skilled in various programming languages while handling systems that scale to millions of users. Committed to a culture of collaboration and excellence, with a dedication to staying up-to-date on the latest development standards and best practices. Aiming to contribute specialized software engineering expertise to a dynamic organization to enable high levels of productivity and customer satisfaction.
+---
 
+###  **A Little About Me**  
 
-
-
-
-### **A Little About Me**  
-
-- 🌱 **Hobbies**: Gardening, deep-diving into random research topics, skiing, and going for long walks.  
-- ✍️ **My Latest Blog**: [Preventing Claude 4 Sonnet Hallucination in Cursor](https://christopheralphonse.com/blog/preventing-claude-4-sonnet-hallucination-in-cursor))  
+- 🌱 **Hobbies**: Gardening, deep-diving into random research topics, skiing, and long walks.  
+- ✍️ **My Latest Blog**: [Preventing Claude 4 Sonnet Hallucination in Cursor](https://christopheralphonse.com/blog/preventing-claude-4-sonnet-hallucination-in-cursor)  
 - 💼 **LinkedIn**: [linkedin.com/in/christopheralphonse](https://www.linkedin.com/in/christopheralphonse/)  
 
+---
 
 <p align="center">
-  <a href="mailto:christopheralphonse96@gmail.com">Email</a> • 
-  <a href="https://christopheralphonse.com/blog">Blog</a> • 
-    <a href="https://christopheralphonse.com/resume">Resume</a>
-</p>
+  <a href="mailto:christopheralphonse96@gmail.com"><b>Email</b></a> • 
+  <a href="https://christopheralphonse.com/blog"><b>Blog</b></a> • 
+  <a href="https://christopheralphonse.com/resume"><b>Resume</b></a>
+</p>  
 
-<a href="https://github.com/ChristopherAlphonse">
-  <img align="center" width="49%" src="./metrics-main.svg" />
-</a>
-<a href="https://github.com/ChristopherAlphonse">
-  <img align="center" width="49%" src="./metrics-lang-wakatime.svg" />
-</a>
+<p align="center">
+  <a href="https://github.com/ChristopherAlphonse">
+    <img align="center" width="49%" src="./metrics-main.svg" />
+  </a>
+  <a href="https://github.com/ChristopherAlphonse">
+    <img align="center" width="49%" src="./metrics-lang-wakatime.svg" />
+  </a>
+</p>
