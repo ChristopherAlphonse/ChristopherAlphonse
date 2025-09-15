@@ -1,16 +1,21 @@
 name: Metrics
+
 on:
   workflow_dispatch:
   push:
     branches: ["main"]
 
-
-
+permissions:
+  contents: write
+  packages: read
 
 jobs:
-  metrics-main:
+  generate-metrics:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Ensure jq is installed
         run: |
           if ! command -v jq &> /dev/null; then
@@ -18,7 +23,9 @@ jobs:
             sudo apt-get install -y jq
           fi
 
-      - uses: lowlighter/metrics@latest
+      # Main metrics
+      - name: Generate main metrics
+        uses: lowlighter/metrics@latest
         with:
           github_token: ${{ secrets.METRICS_TOKEN }}
           user: ChristopherAlphonse
@@ -27,40 +34,34 @@ jobs:
           template: classic
           base_indepth: yes
           base_hireable: yes
-          
-  metrics-lang-wakatime:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Ensure jq is installed
-        run: |
-          if ! command -v jq &> /dev/null; then
-            sudo apt-get update
-            sudo apt-get install -y jq
-          fi
 
-      - uses: lowlighter/metrics@latest
+      # Language + WakaTime metrics
+      - name: Generate language & WakaTime metrics
+        uses: lowlighter/metrics@latest
         with:
           github_token: ${{ secrets.METRICS_TOKEN }}
-          
           plugin_languages: yes
           plugin_languages_ignored: CMake, HTML, CSS, Makefile, Jupyter Notebook
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
           plugin_languages_details: percentage
           plugin_languages_indepth: no
-          plugin_languages_analysis_timeout: 30
           plugin_languages_categories: programming
-          
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-
           user: ChristopherAlphonse
           base: ''
           filename: metrics-lang-wakatime.svg
           template: classic
           repositories: 240
           repositories_batch: 40
-permissions:
-  contents: write
-  packages: read
+
+      # Commit SVGs back to repo
+      - name: Commit metrics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add metrics-main.svg metrics-lang-wakatime.svg
+          git commit -m "Update metrics images" || echo "No changes to commit"
+          git push
