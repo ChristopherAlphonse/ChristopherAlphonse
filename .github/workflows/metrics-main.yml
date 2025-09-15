@@ -1,0 +1,44 @@
+name: Metrics - Main
+
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+
+jobs:
+  generate-main-metrics:
+    runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Ensure jq is installed
+        run: |
+          if ! command -v jq &> /dev/null; then
+            sudo apt-get update
+            sudo apt-get install -y jq
+          fi
+
+      - name: Generate main metrics
+        uses: lowlighter/metrics@latest
+        with:
+          github_token: ${{ secrets.METRICS_TOKEN }}
+          user: ChristopherAlphonse
+          base: header, activity, community, repositories, metadata
+          filename: metrics-main.svg
+          template: classic
+          base_indepth: yes
+          base_hireable: yes
+
+      - name: Commit metrics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add metrics-main.svg
+          git commit -m "Update main metrics image" || echo "No changes to commit"
+          git push
