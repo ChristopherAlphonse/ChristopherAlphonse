@@ -2,7 +2,7 @@
   <i>Aiming to bring specialized software engineering expertise to a dynamic organization to drive productivity and customer satisfaction.</i>  
 </p>  
 
-
+## Building [Reinvoice](https://reinvoice.co/), [Adadex](https://github.com/ChristopherAlphonse/adadex)
 
 <p align="center">
   <a href="mailto:christopheralphonse96@gmail.com"><b>Email</b></a> • 
