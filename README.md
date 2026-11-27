@@ -87,6 +87,17 @@ Also: <a href="https://github.com/ChristopherAlphonse/dotfiles">dotfiles</a> (ZS
 
 ---
 
+## Experience
+
+| Role | Detail |
+|---|---|
+| **Southwest Airlines** (Present) | Currently working at Southwest Airlines |
+| **Software Engineer Consultant, ezCater** (Jan – Jun 2026) | Owned SEO and GEO strategy for landing pages serving 35M monthly visitors. Moved critical SEO pages from legacy systems to a GraphQL-backed Store-next architecture, with quarter-over-quarter gains in indexed pages, Core Web Vitals pass rates and organic search |
+| **Software Development Engineer Intern, CarGurus** (Jun – Aug 2025) | Shipped a Chrome extension used by 800+ dealerships across North America and Europe, making vehicle lookups 40% faster. Built a Chrome side-panel closing API that resolved long-standing W3C issue #521. Designed a CLI AI tool integrated with MCP and AI-powered IDEs |
+| **Software Engineer Intern, ezCater** (Jun – Nov 2024) | Ran UX experiments that lifted conversions by up to 34%. Cut deployment time 50% through Kubernetes pod and startup-script changes. Modernized the legacy Rails asset pipeline and webpack output. Added A/B and multivariate testing and set up Sentry dashboards with Slack alerts for AWS incidents |
+
+---
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ChristopherAlphonse&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats for ChristopherAlphonse" height="165" />
 </p>
