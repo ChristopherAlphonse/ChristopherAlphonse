@@ -89,11 +89,16 @@ open source<br>
       <sub>A beautiful AI logger for JavaScript devs that makes debugging a joy</sub><br />
       <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=typescript%20%7C%20logging&labelColor=ef4444&color=111827" alt="focus typescript%20%7C%20logging" />
     </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ChristopherAlphonse/pihole"><b>pihole</b></a><br />
+      <sub>Block ads on the network layer</sub><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=networking%20%7C%20ad%20blocking&labelColor=22c55e&color=111827" alt="focus networking ad blocking" />
+    </td>
   </tr>
 </table>
 
 <sub>
-Also: <a href="https://github.com/ChristopherAlphonse/dotfiles">dotfiles</a> (ZSH, PWSH, Bash, Git and VS Code settings), <a href="https://github.com/ChristopherAlphonse/pihole">pihole</a>
+Also: <a href="https://github.com/ChristopherAlphonse/dotfiles">dotfiles</a> (ZSH, PWSH, Bash, Git and VS Code settings)
 </sub>
 
 ---
