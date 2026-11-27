@@ -7,7 +7,7 @@
 
 software engineering<br>
 ﹂**Southwest Airlines** Sept 26<br>
-&nbsp;&nbsp;&nbsp;&nbsp;﹂currently working at Southwest Airlines - mastering aws, terraform, c# .net and angular day by day<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂mastering aws, terraform, c# .net and angular day by day<br>
 
 open source<br>
 ﹂**Creator of [Adadex](https://github.com/ChristopherAlphonse/adadex)**: AI coding agent orchestration<br>
