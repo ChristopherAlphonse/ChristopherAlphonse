@@ -35,48 +35,36 @@
     <td width="50%" valign="top">
       <a href="https://github.com/ChristopherAlphonse/adadex"><b>adadex</b></a><br />
       <sub>AI coding agent orchestration: multiple terminal sessions with scoped context, todo lists and parent-worker coordination</sub><br />
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=agents%20%7C%20orchestration&labelColor=a855f7&color=111827" alt="focus agents%20%7C%20orchestration" /><br />
-      <img src="https://img.shields.io/github/stars/ChristopherAlphonse/adadex?style=flat-square&label=stars&color=f59e0b" alt="adadex stars" />
-      <img src="https://img.shields.io/github/forks/ChristopherAlphonse/adadex?style=flat-square&label=forks&color=60a5fa" alt="adadex forks" />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=agents%20%7C%20orchestration&labelColor=a855f7&color=111827" alt="focus agents%20%7C%20orchestration" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ChristopherAlphonse/calphonse-skills"><b>calphonse-skills</b></a><br />
       <sub>Curated skills and configurations for AI-assisted development</sub><br />
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=skills%20%7C%20ai%20dev&labelColor=0ea5e9&color=111827" alt="focus skills%20%7C%20ai%20dev" /><br />
-      <img src="https://img.shields.io/github/stars/ChristopherAlphonse/calphonse-skills?style=flat-square&label=stars&color=f59e0b" alt="calphonse-skills stars" />
-      <img src="https://img.shields.io/github/forks/ChristopherAlphonse/calphonse-skills?style=flat-square&label=forks&color=60a5fa" alt="calphonse-skills forks" />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=skills%20%7C%20ai%20dev&labelColor=0ea5e9&color=111827" alt="focus skills%20%7C%20ai%20dev" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ChristopherAlphonse/azalais-dark-theme"><b>azalais-dark-theme</b></a><br />
       <sub>VS Code theme built to reduce eye fatigue · <a href="https://marketplace.visualstudio.com/items?itemName=ChristopherAlphonse.azalais-dark-theme">Marketplace</a></sub><br />
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=vs%20code%20%7C%20themes&labelColor=22c55e&color=111827" alt="focus vs%20code%20%7C%20themes" /><br />
-      <img src="https://img.shields.io/github/stars/ChristopherAlphonse/azalais-dark-theme?style=flat-square&label=stars&color=f59e0b" alt="azalais-dark-theme stars" />
-      <img src="https://img.shields.io/github/forks/ChristopherAlphonse/azalais-dark-theme?style=flat-square&label=forks&color=60a5fa" alt="azalais-dark-theme forks" />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=vs%20code%20%7C%20themes&labelColor=22c55e&color=111827" alt="focus vs%20code%20%7C%20themes" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ChristopherAlphonse/SQLite-peek"><b>SQLite-peek</b></a><br />
       <sub>Read-only SQLite viewer for VS Code · <a href="https://marketplace.visualstudio.com/items?itemName=ChristopherAlphonse.sqlite-peek">Marketplace</a></sub><br />
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=vs%20code%20%7C%20sqlite&labelColor=fb923c&color=111827" alt="focus vs%20code%20%7C%20sqlite" /><br />
-      <img src="https://img.shields.io/github/stars/ChristopherAlphonse/SQLite-peek?style=flat-square&label=stars&color=f59e0b" alt="SQLite-peek stars" />
-      <img src="https://img.shields.io/github/forks/ChristopherAlphonse/SQLite-peek?style=flat-square&label=forks&color=60a5fa" alt="SQLite-peek forks" />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=vs%20code%20%7C%20sqlite&labelColor=fb923c&color=111827" alt="focus vs%20code%20%7C%20sqlite" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ChristopherAlphonse/logger"><b>logger</b></a><br />
       <sub>A beautiful AI logger for JavaScript devs that makes debugging a joy</sub><br />
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=typescript%20%7C%20logging&labelColor=ef4444&color=111827" alt="focus typescript%20%7C%20logging" /><br />
-      <img src="https://img.shields.io/github/stars/ChristopherAlphonse/logger?style=flat-square&label=stars&color=f59e0b" alt="logger stars" />
-      <img src="https://img.shields.io/github/forks/ChristopherAlphonse/logger?style=flat-square&label=forks&color=60a5fa" alt="logger forks" />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=typescript%20%7C%20logging&labelColor=ef4444&color=111827" alt="focus typescript%20%7C%20logging" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ChristopherAlphonse/hackathon26-remotion"><b>hackathon26-remotion</b></a><br />
       <sub>Hackathon26 voice-to-operations pitch video, built with Remotion</sub><br />
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=remotion%20%7C%20video&labelColor=60a5fa&color=111827" alt="focus remotion%20%7C%20video" /><br />
-      <img src="https://img.shields.io/github/stars/ChristopherAlphonse/hackathon26-remotion?style=flat-square&label=stars&color=f59e0b" alt="hackathon26-remotion stars" />
-      <img src="https://img.shields.io/github/forks/ChristopherAlphonse/hackathon26-remotion?style=flat-square&label=forks&color=60a5fa" alt="hackathon26-remotion forks" />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=remotion%20%7C%20video&labelColor=60a5fa&color=111827" alt="focus remotion%20%7C%20video" />
     </td>
   </tr>
 </table>
