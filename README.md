@@ -2,12 +2,20 @@
   <i>Software engineer building reliable, product-focused tools that help teams move faster and serve customers better.</i>
 </p>
 
-<h2 align="center">
-  Currently building 
-  <a href="https://reinvoice.co/">Reinvoice</a> 
-  and 
-  <a href="https://github.com/ChristopherAlphonse/adadex">Adadex</a>
-</h2>
+
+## Present
+
+software engineering<br>
+﹂**Southwest Airlines** Sept 26<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂currently working at Southwest Airlines<br>
+
+open source<br>
+﹂**Creator of [Adadex](https://github.com/ChristopherAlphonse/adadex)**: AI coding agent orchestration<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂multiple terminal sessions with scoped context, todo lists, and parent-worker coordination<br>
+﹂**Published [Azalais Dark](https://marketplace.visualstudio.com/items?itemName=ChristopherAlphonse.azalais-dark-theme) and [SQLite Peek](https://marketplace.visualstudio.com/items?itemName=ChristopherAlphonse.sqlite-peek)** to the VS Code Marketplace<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂auto-released from GitHub Actions on every merge to main<br>
+
+---
 
 <p align="center">
   <a href="mailto:christopheralphonse96@gmail.com"><b>Email</b></a>
@@ -75,19 +83,6 @@ Also: <a href="https://github.com/ChristopherAlphonse/dotfiles">dotfiles</a> (ZS
 
 ---
 
-## Now
-
-software engineering<br>
-﹂**Southwest Airlines**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;﹂currently working at Southwest Airlines<br>
-
-open source<br>
-﹂**Creator of [Adadex](https://github.com/ChristopherAlphonse/adadex)**: AI coding agent orchestration<br>
-&nbsp;&nbsp;&nbsp;&nbsp;﹂multiple terminal sessions with scoped context, todo lists, and parent-worker coordination<br>
-﹂**Published [Azalais Dark](https://marketplace.visualstudio.com/items?itemName=ChristopherAlphonse.azalais-dark-theme) and [SQLite Peek](https://marketplace.visualstudio.com/items?itemName=ChristopherAlphonse.sqlite-peek)** to the VS Code Marketplace<br>
-&nbsp;&nbsp;&nbsp;&nbsp;﹂auto-released from GitHub Actions on every merge to main<br>
-
----
 
 ## Past
 
