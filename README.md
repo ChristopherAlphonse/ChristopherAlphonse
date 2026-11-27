@@ -9,16 +9,6 @@
   <a href="https://github.com/ChristopherAlphonse/adadex">Adadex</a>
 </h2>
 
-<h3 align="center">Recently shipped</h3>
-
-<p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=ChristopherAlphonse.azalais-dark-theme"><b>Azalais Dark</b></a> — VS Code theme built to reduce eye fatigue
-  <br />
-  <a href="https://marketplace.visualstudio.com/items?itemName=ChristopherAlphonse.sqlite-peek"><b>SQLite Peek</b></a> — read-only SQLite viewer for VS Code
-  <br />
-  <a href="https://github.com/ChristopherAlphonse/calphonse-skills"><b>calphonse-skills</b></a> — curated skills and configs for AI-assisted development
-</p>
-
 <p align="center">
   <a href="mailto:christopheralphonse96@gmail.com"><b>Email</b></a>
   ·
@@ -34,4 +24,69 @@
   <a href="https://github.com/ChristopherAlphonse">
     <img width="49%" src="./metrics-lang-wakatime.svg" alt="Languages and WakaTime metrics" />
   </a>
+</p>
+
+---
+
+## Open Source
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ChristopherAlphonse/adadex"><b>adadex</b></a><br />
+      <sub>AI coding agent orchestration: multiple terminal sessions with scoped context, todo lists and parent-worker coordination</sub><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=agents%20%7C%20orchestration&labelColor=a855f7&color=111827" alt="focus agents%20%7C%20orchestration" /><br />
+      <img src="https://img.shields.io/github/stars/ChristopherAlphonse/adadex?style=flat-square&label=stars&color=f59e0b" alt="adadex stars" />
+      <img src="https://img.shields.io/github/forks/ChristopherAlphonse/adadex?style=flat-square&label=forks&color=60a5fa" alt="adadex forks" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ChristopherAlphonse/calphonse-skills"><b>calphonse-skills</b></a><br />
+      <sub>Curated skills and configurations for AI-assisted development</sub><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=skills%20%7C%20ai%20dev&labelColor=0ea5e9&color=111827" alt="focus skills%20%7C%20ai%20dev" /><br />
+      <img src="https://img.shields.io/github/stars/ChristopherAlphonse/calphonse-skills?style=flat-square&label=stars&color=f59e0b" alt="calphonse-skills stars" />
+      <img src="https://img.shields.io/github/forks/ChristopherAlphonse/calphonse-skills?style=flat-square&label=forks&color=60a5fa" alt="calphonse-skills forks" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ChristopherAlphonse/azalais-dark-theme"><b>azalais-dark-theme</b></a><br />
+      <sub>VS Code theme built to reduce eye fatigue · <a href="https://marketplace.visualstudio.com/items?itemName=ChristopherAlphonse.azalais-dark-theme">Marketplace</a></sub><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=vs%20code%20%7C%20themes&labelColor=22c55e&color=111827" alt="focus vs%20code%20%7C%20themes" /><br />
+      <img src="https://img.shields.io/github/stars/ChristopherAlphonse/azalais-dark-theme?style=flat-square&label=stars&color=f59e0b" alt="azalais-dark-theme stars" />
+      <img src="https://img.shields.io/github/forks/ChristopherAlphonse/azalais-dark-theme?style=flat-square&label=forks&color=60a5fa" alt="azalais-dark-theme forks" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ChristopherAlphonse/SQLite-peek"><b>SQLite-peek</b></a><br />
+      <sub>Read-only SQLite viewer for VS Code · <a href="https://marketplace.visualstudio.com/items?itemName=ChristopherAlphonse.sqlite-peek">Marketplace</a></sub><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=vs%20code%20%7C%20sqlite&labelColor=fb923c&color=111827" alt="focus vs%20code%20%7C%20sqlite" /><br />
+      <img src="https://img.shields.io/github/stars/ChristopherAlphonse/SQLite-peek?style=flat-square&label=stars&color=f59e0b" alt="SQLite-peek stars" />
+      <img src="https://img.shields.io/github/forks/ChristopherAlphonse/SQLite-peek?style=flat-square&label=forks&color=60a5fa" alt="SQLite-peek forks" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ChristopherAlphonse/logger"><b>logger</b></a><br />
+      <sub>A beautiful AI logger for JavaScript devs that makes debugging a joy</sub><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=typescript%20%7C%20logging&labelColor=ef4444&color=111827" alt="focus typescript%20%7C%20logging" /><br />
+      <img src="https://img.shields.io/github/stars/ChristopherAlphonse/logger?style=flat-square&label=stars&color=f59e0b" alt="logger stars" />
+      <img src="https://img.shields.io/github/forks/ChristopherAlphonse/logger?style=flat-square&label=forks&color=60a5fa" alt="logger forks" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ChristopherAlphonse/hackathon26-remotion"><b>hackathon26-remotion</b></a><br />
+      <sub>Hackathon26 voice-to-operations pitch video, built with Remotion</sub><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=remotion%20%7C%20video&labelColor=60a5fa&color=111827" alt="focus remotion%20%7C%20video" /><br />
+      <img src="https://img.shields.io/github/stars/ChristopherAlphonse/hackathon26-remotion?style=flat-square&label=stars&color=f59e0b" alt="hackathon26-remotion stars" />
+      <img src="https://img.shields.io/github/forks/ChristopherAlphonse/hackathon26-remotion?style=flat-square&label=forks&color=60a5fa" alt="hackathon26-remotion forks" />
+    </td>
+  </tr>
+</table>
+
+<sub>
+Also: <a href="https://github.com/ChristopherAlphonse/dotfiles">dotfiles</a> (ZSH, PWSH, Bash, Git and VS Code settings), <a href="https://github.com/ChristopherAlphonse/pihole">pihole</a>
+</sub>
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ChristopherAlphonse&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats for ChristopherAlphonse" height="165" />
 </p>
