@@ -17,6 +17,26 @@ open source<br>
 
 ---
 
+
+## Past
+
+**Software Engineer Consultant @ ezCater** · Jan – Jun 2026<br>
+﹂owned SEO and GEO strategy for landing pages with 35M monthly visitors<br>
+﹂re-platformed critical SEO pages from legacy systems to a GraphQL-backed Store-next architecture<br>
+﹂quarter-over-quarter gains in indexed pages, Core Web Vitals pass rates and organic search<br>
+
+**Software Development Engineer Intern @ CarGurus** · Jun – Aug 2025<br>
+﹂shipped a Chrome extension used by 800+ dealerships across North America and Europe, vehicle lookups 40% faster<br>
+﹂built a Chrome side-panel closing API that resolved W3C issue #521<br>
+﹂designed a CLI AI tool integrated with MCP and AI-powered IDEs<br>
+
+**Software Engineer Intern @ ezCater** · Jun – Nov 2024<br>
+﹂UX experiments that lifted conversions by up to 34%<br>
+﹂cut deployment time 50% through Kubernetes pod and startup-script changes<br>
+﹂modernized the legacy Rails asset pipeline, added A/B and multivariate testing, set up Sentry dashboards with Slack alerts<br>
+
+---
+
 <p align="center">
   <a href="mailto:christopheralphonse96@gmail.com"><b>Email</b></a>
   ·
@@ -83,25 +103,6 @@ Also: <a href="https://github.com/ChristopherAlphonse/dotfiles">dotfiles</a> (ZS
 
 ---
 
-
-## Past
-
-**Software Engineer Consultant @ ezCater** · Jan – Jun 2026<br>
-﹂owned SEO and GEO strategy for landing pages with 35M monthly visitors<br>
-﹂re-platformed critical SEO pages from legacy systems to a GraphQL-backed Store-next architecture<br>
-﹂quarter-over-quarter gains in indexed pages, Core Web Vitals pass rates and organic search<br>
-
-**Software Development Engineer Intern @ CarGurus** · Jun – Aug 2025<br>
-﹂shipped a Chrome extension used by 800+ dealerships across North America and Europe, vehicle lookups 40% faster<br>
-﹂built a Chrome side-panel closing API that resolved W3C issue #521<br>
-﹂designed a CLI AI tool integrated with MCP and AI-powered IDEs<br>
-
-**Software Engineer Intern @ ezCater** · Jun – Nov 2024<br>
-﹂UX experiments that lifted conversions by up to 34%<br>
-﹂cut deployment time 50% through Kubernetes pod and startup-script changes<br>
-﹂modernized the legacy Rails asset pipeline, added A/B and multivariate testing, set up Sentry dashboards with Slack alerts<br>
-
----
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ChristopherAlphonse&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats for ChristopherAlphonse" height="165" />
