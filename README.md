@@ -77,19 +77,13 @@ Also: <a href="https://github.com/ChristopherAlphonse/dotfiles">dotfiles</a> (ZS
 
 ## Now
 
-software engineering<br>
-﹂**Southwest Airlines**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;﹂currently working at Southwest Airlines<br>
-
-open source<br>
-﹂**Creator of [Adadex](https://github.com/ChristopherAlphonse/adadex)**: AI coding agent orchestration<br>
-&nbsp;&nbsp;&nbsp;&nbsp;﹂multiple terminal sessions with scoped context, todo lists, and parent-worker coordination<br>
-﹂**Published [Azalais Dark](https://marketplace.visualstudio.com/items?itemName=ChristopherAlphonse.azalais-dark-theme) and [SQLite Peek](https://marketplace.visualstudio.com/items?itemName=ChristopherAlphonse.sqlite-peek)** to the VS Code Marketplace<br>
-&nbsp;&nbsp;&nbsp;&nbsp;﹂auto-released from GitHub Actions on every merge to main<br>
+Currently building [Reinvoice](https://reinvoice.co/) and [Adadex](https://github.com/ChristopherAlphonse/adadex)
 
 ---
 
 ## Past
+
+**Southwest Airlines** · Present<br>
 
 **Software Engineer Consultant @ ezCater** · Jan – Jun 2026<br>
 ﹂owned SEO and GEO strategy for landing pages with 35M monthly visitors<br>
