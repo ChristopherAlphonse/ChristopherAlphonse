@@ -87,14 +87,36 @@ Also: <a href="https://github.com/ChristopherAlphonse/dotfiles">dotfiles</a> (ZS
 
 ---
 
-## Experience
+## Now
 
-| Role | Detail |
-|---|---|
-| **Southwest Airlines** (Present) | Currently working at Southwest Airlines |
-| **Software Engineer Consultant, ezCater** (Jan – Jun 2026) | Owned SEO and GEO strategy for landing pages serving 35M monthly visitors. Moved critical SEO pages from legacy systems to a GraphQL-backed Store-next architecture, with quarter-over-quarter gains in indexed pages, Core Web Vitals pass rates and organic search |
-| **Software Development Engineer Intern, CarGurus** (Jun – Aug 2025) | Shipped a Chrome extension used by 800+ dealerships across North America and Europe, making vehicle lookups 40% faster. Built a Chrome side-panel closing API that resolved long-standing W3C issue #521. Designed a CLI AI tool integrated with MCP and AI-powered IDEs |
-| **Software Engineer Intern, ezCater** (Jun – Nov 2024) | Ran UX experiments that lifted conversions by up to 34%. Cut deployment time 50% through Kubernetes pod and startup-script changes. Modernized the legacy Rails asset pipeline and webpack output. Added A/B and multivariate testing and set up Sentry dashboards with Slack alerts for AWS incidents |
+software engineering<br>
+﹂**Southwest Airlines**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂currently working at Southwest Airlines<br>
+
+open source<br>
+﹂**Creator of [Adadex](https://github.com/ChristopherAlphonse/adadex)**: AI coding agent orchestration<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂multiple terminal sessions with scoped context, todo lists, and parent-worker coordination<br>
+﹂**Published [Azalais Dark](https://marketplace.visualstudio.com/items?itemName=ChristopherAlphonse.azalais-dark-theme) and [SQLite Peek](https://marketplace.visualstudio.com/items?itemName=ChristopherAlphonse.sqlite-peek)** to the VS Code Marketplace<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂auto-released from GitHub Actions on every merge to main<br>
+
+---
+
+## Past
+
+**Software Engineer Consultant @ ezCater** · Jan – Jun 2026<br>
+﹂owned SEO and GEO strategy for landing pages with 35M monthly visitors<br>
+﹂re-platformed critical SEO pages from legacy systems to a GraphQL-backed Store-next architecture<br>
+﹂quarter-over-quarter gains in indexed pages, Core Web Vitals pass rates and organic search<br>
+
+**Software Development Engineer Intern @ CarGurus** · Jun – Aug 2025<br>
+﹂shipped a Chrome extension used by 800+ dealerships across North America and Europe, vehicle lookups 40% faster<br>
+﹂built a Chrome side-panel closing API that resolved W3C issue #521<br>
+﹂designed a CLI AI tool integrated with MCP and AI-powered IDEs<br>
+
+**Software Engineer Intern @ ezCater** · Jun – Nov 2024<br>
+﹂UX experiments that lifted conversions by up to 34%<br>
+﹂cut deployment time 50% through Kubernetes pod and startup-script changes<br>
+﹂modernized the legacy Rails asset pipeline, added A/B and multivariate testing, set up Sentry dashboards with Slack alerts<br>
 
 ---
 
