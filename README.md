@@ -1,5 +1,5 @@
 <p align="center">
-  <i>Software engineer building reliable, product-focused tools that help teams move faster and serve customers better.</i>
+  <i>Try <a href="https://github.com/ChristopherAlphonse/adadex">Adadex</a> and the <a href="https://github.com/ChristopherAlphonse/calphonse-skills/tree/main/factory">factory skill</a>, looking for feedback.</i>
 </p>
 
 
