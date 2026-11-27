@@ -89,11 +89,6 @@ open source<br>
       <sub>A beautiful AI logger for JavaScript devs that makes debugging a joy</sub><br />
       <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=typescript%20%7C%20logging&labelColor=ef4444&color=111827" alt="focus typescript%20%7C%20logging" />
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ChristopherAlphonse/hackathon26-remotion"><b>hackathon26-remotion</b></a><br />
-      <sub>Hackathon26 voice-to-operations pitch video, built with Remotion</sub><br />
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=remotion%20%7C%20video&labelColor=60a5fa&color=111827" alt="focus remotion%20%7C%20video" />
-    </td>
   </tr>
 </table>
 
