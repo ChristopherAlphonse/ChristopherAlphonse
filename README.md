@@ -2,13 +2,6 @@
   <i>Software engineer building reliable, product-focused tools that help teams move faster and serve customers better.</i>
 </p>
 
-<h2 align="center">
-  Currently building 
-  <a href="https://reinvoice.co/">Reinvoice</a> 
-  and 
-  <a href="https://github.com/ChristopherAlphonse/adadex">Adadex</a>
-</h2>
-
 <p align="center">
   <a href="mailto:christopheralphonse96@gmail.com"><b>Email</b></a>
   ·
